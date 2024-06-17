@@ -3,6 +3,12 @@
 ## 📜 Description
 "Get_Next_Line" is a project I completed at 42 School. The goal is to create a function that reads a line from a file descriptor, allowing efficient file input handling. This function helps manage dynamic memory and works with various file descriptors simultaneously.
 
+#### ⭐ My 42 score for this project:
+![image](https://github.com/yvann-ba/Get_Next_Line/assets/97234242/8c9961c4-94a7-4582-8cf6-8441c28fb425)
+
+#### 📄 Official 42 School Subject:
+https://github.com/rphlr/42-Subjects/blob/main/common-core/get_next_line/en.subject.pdf
+
 ## 🌟 Features
 - Read lines from a file descriptor
 - Handle multiple file descriptors at once
